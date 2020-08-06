@@ -1,7 +1,7 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm ANKESH 
 
 ## I'm a Student Developer.
-- 🌱 I’m currently learning ![PYTHON](/static/img/python-logo.png)
+- 🌱 I’m currently learning ![](/static/img/python-logo.png)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
