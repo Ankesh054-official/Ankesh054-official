@@ -25,7 +25,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />]
 [<img align="left" alt="vs_code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />]
-[<img align="left" alt="pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />]
+[<img align="left" alt="pycharm" width="26px" src="https://banner2.cleanpng.com/20180617/hev/kisspng-pycharm-intellij-idea-jetbrains-integrated-develop-jbj-5b25ebbd21dbe9.7593892615292118371387.jpg" />]
 
 <br />
 <br />
