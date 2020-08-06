@@ -28,7 +28,7 @@
 [<img align="left" alt="pycharm" width="26px" src="https://banner2.cleanpng.com/20180617/hev/kisspng-pycharm-intellij-idea-jetbrains-integrated-develop-jbj-5b25ebbd21dbe9.7593892615292118371387.jpg" />]
 [<img align="left" alt="intellij-idea" width="26px" src="https://b1.pngbarn.com/png/119/386/clay-os-6-a-macos-icon-intellij-idea-ij-logo-png-clip-art.png" />]
 [<img align="left" alt="C language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]
-[<img align="left" alt="java language" width="26px" src="https://cdn.imgbin.com/9/18/23/imgbin-java-programmer-computer-programming-logo-others-UqxEsKnjGLrqf4iDsUtLuP7bA.jpg" />]
+[<img align="left" alt="java language" width="26px" src="https://www.giosdatascience.com/wp-content/uploads/2018/08/java-logo.png" />]
 
 
 
