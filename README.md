@@ -1,7 +1,7 @@
 ### Hi there, I'm ANKESH 
 
 ## I'm a Student Developer.
-- 🌱 I’m currently learning ![](/static/img/python-logo.png)
+- 🌱 I’m currently learning ![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-and-brands%2F512%2F267_Python_logo-512.png&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4375050%2Flogo_python_icon&tbnid=0j0BjCEbnRxutM&vet=12ahUKEwjj8973tYXrAhXYm0sFHcHVAQgQMygAegUIARC4AQ..i&docid=09ScJ50Q3EkPqM&w=512&h=512&q=python&hl=en-GB&client=firefox-b-e&ved=2ahUKEwjj8973tYXrAhXYm0sFHcHVAQgQMygAegUIARC4AQ)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
