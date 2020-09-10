@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: To do more Collaboration. 
 - ⚡ Fun fact: I like to code in any language.
+- <a href="https://ankesh054-official.github.io/Portfolio/"><img align="left" alt="_ANKESHOfficial | Portfolio" width="22px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" /> My Portfolio Website</a>
 
 ### Connect with me:
 <a href="https://codesandbox.io/u/Ankesh054-official">
@@ -22,7 +23,7 @@
 <a href="https://www.facebook.com/ankesh054official">
     <img align="left" alt="ankesh054official | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br />
+<br>
 
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -46,12 +47,6 @@
 
 
 <img align="left" alt="Ankesh054-official's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ankesh054-official&show_icons=true&hide_border=true" />
-
-[twitter]: https://twitter.com/_ANKESHOfficial
-[instagram]: https://www.instagram.com/ankesh_official_054/
-[linkedin]: https://linkedin.com/in/ankesh_official_054/
-[facebook]: https://www.facebook.com/ankesh054official
-
 
 
 
