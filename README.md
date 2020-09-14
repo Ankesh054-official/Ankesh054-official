@@ -1,7 +1,7 @@
 ### Hi there, I'm ANKESH 
 
 ## I'm a Student Developer.
-- 🌱 I’m currently learning <img alt="Python" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" height="30"/>
+- 🌱 I’m currently learning <img alt="Python" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" height="17"/>
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: To do more Collaboration. 
 - ⚡ Fun fact: I like to code in any language.
