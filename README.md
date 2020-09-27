@@ -5,22 +5,22 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: To do more Collaboration. 
 - ⚡ Fun fact: I like to code in any language.
-- <a href="https://ankesh054-official.github.io/Portfolio/">https://ankesh054-official.github.io/Portfolio</a><img align="left" alt="_ANKESHOfficial | Portfolio" width="18px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png"/>
+- <a href="https://ankesh054-official.github.io/Portfolio/" target="_blank">https://ankesh054-official.github.io/Portfolio</a><img align="left" alt="_ANKESHOfficial | Portfolio" width="18px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png"/>
 
 ### Connect with me:
-<a href="https://codesandbox.io/u/Ankesh054-official">
+<a href="https://codesandbox.io/u/Ankesh054-official" target="_blank">
   <img align="left" alt="Ankesh054-official| CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/_ANKESHOfficial">
+<a href="https://twitter.com/_ANKESHOfficial" target="_blank">
     <img align="left" alt="_ANKESHOfficial | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ankesh054/">
+<a href="https://www.linkedin.com/in/ankesh054/" target="_blank">
     <img align="left" alt="ankesh_official_054/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/ankesh_official_054/">
-    <img align="left" alt="ankesh_official_054/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/ankesh054/" target="_blank">
+    <img align="left" alt="ANKESH | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ankesh054official">
+<a href="https://www.facebook.com/ankesh054official" target="_blank">
     <img align="left" alt="ankesh054official | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
