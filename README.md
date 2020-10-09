@@ -48,6 +48,6 @@
 ![Ankesh054-official](https://github-readme-stats.vercel.app/api?username=Ankesh054-official&include_all_commits=true&show_icons=true&hide_border=true)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankesh054-official&exclude_repo=LittleBrother-GUI-,ankesh054-official.github.io)](https://github.com/Ankesh054-official/LittleBrother-GUI-)
 
 
