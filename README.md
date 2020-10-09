@@ -48,6 +48,4 @@
 ![Ankesh054-official](https://github-readme-stats.vercel.app/api?username=Ankesh054-official&include_all_commits=true&show_icons=true&hide_border=true)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ankesh054-official&repo=LittleBrother-GUI-)](https://github.com/Ankesh054-official/LittleBrother-GUI-)
-
 
