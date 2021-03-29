@@ -47,5 +47,8 @@
 
 ![Ankesh054-official](https://github-readme-stats.vercel.app/api?username=Ankesh054-official&include_all_commits=true&show_icons=true&hide_border=true)
 
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ankesh054-official}/count.svg" /></p> 
 
+<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
 
