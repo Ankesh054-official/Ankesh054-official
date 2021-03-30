@@ -1,4 +1,4 @@
-<p  align="center"><img src="https://raw.githubusercontent.com/Ankesh054-official/Ankesh054-official/master/images/code.gif" ></p>
+<p  align="center"><img src="https://raw.githubusercontent.com/Ankesh054-official/Ankesh054-official/master/images/code.gif" width="100%"></p>
 
 ### Hello World! <img src="https://raw.githubusercontent.com/Ankesh054-official/Ankesh054-official/master/images/Hi.gif" width="30px">, I'm ANKESH 
 
