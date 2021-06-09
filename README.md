@@ -1,7 +1,7 @@
 
 <p  align="center"><img src="https://raw.githubusercontent.com/Ankesh054-official/Ankesh054-official/master/images/code.gif" width="100%"></p>
-###<h1>Hello World! <img src="https://raw.githubusercontent.com/Ankesh054-official/Ankesh054-official/master/images/Hi.gif" width="30px">, I'm ANKESH</h1> 
-##A Student Developer.
+### <h1>Hello World! <img src="https://raw.githubusercontent.com/Ankesh054-official/Ankesh054-official/master/images/Hi.gif" width="30px">, I'm ANKESH</h1> 
+## A Student Developer.
 - 🌱 I’m currently learning <img alt="Python" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" height="17"/>
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: To do more Collaboration. 
