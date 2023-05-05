@@ -1,53 +1,18 @@
-<p  align="center"><img src="https://raw.githubusercontent.com/Ankesh054-official/Ankesh054-official/master/images/code.gif" width="100%"></p>
-
-### <h1>Hello World! <img src="https://raw.githubusercontent.com/Ankesh054-official/Ankesh054-official/master/images/Hi.gif" width="10px">, I'm ANKESH</h1> 
-
-## I'm a Student Developer.
-- 🌱 I’m currently learning <img alt="Python" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" height="17"/>
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals: To do more Collaboration. 
-- ⚡ Fun fact: I like to code in any language.
-- <a href="https://ankesh054-official.github.io/Portfolio/" target="_blank">https://ankesh054-official.github.io/Portfolio</a><img align="left" alt="_ANKESHOfficial | Portfolio" width="18px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png"/>
-
-### Connect with me:
-<a href="https://codesandbox.io/u/Ankesh054-official" target="_blank">
-  <img align="left" alt="Ankesh054-official| CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/_ANKESHOfficial" target="_blank">
-    <img align="left" alt="_ANKESHOfficial | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ankesh054/" target="_blank">
-    <img align="left" alt="ankesh_official_054/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/ankesh054/" target="_blank">
-    <img align="left" alt="ANKESH | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ankesh054official" target="_blank">
-    <img align="left" alt="ankesh054official | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br>
-
-### Languages and Tools:
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Mariadb" width="26px" src="https://avatars.githubusercontent.com/u/4739304?s=200&v=4" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
-<img align="left" alt="vs_code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />
-<img align="left" alt="pycharm" width="26px" src="https://banner2.cleanpng.com/20180617/hev/kisspng-pycharm-intellij-idea-jetbrains-integrated-develop-jbj-5b25ebbd21dbe9.7593892615292118371387.jpg" />
-<img align="left" alt="intellij-idea" width="26px" src="https://b1.pngbarn.com/png/119/386/clay-os-6-a-macos-icon-intellij-idea-ij-logo-png-clip-art.png" />
-<img align="left" alt="C language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="java language" width="26px" src="https://www.giosdatascience.com/wp-content/uploads/2018/08/java-logo.png" />
-<img align="left" alt="kali linux" width="70" src="https://www.kali.org/images/kali-logo.svg" />
+# 💫 About Me:
+Hi there, my name is Ankesh and I am an undergraduate student at DPGITM Gurugram. Currently, I am focusing on learning Artificial intelligence, Machine learning concepts and I am very passionate about contributing to open source projects. I believe that open source contribution is an amazing way to collaborate with like-minded individuals and create something truly remarkable. I am excited to continue growing my skills and making meaningful contributions to the open source community.
 
 
-<br />
-<br />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankesh054) 
 
-![Ankesh054-official](https://github-readme-stats.vercel.app/api?username=Ankesh054-official&include_all_commits=true&show_icons=true&hide_border=true)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ankesh054-official&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ankesh054-official&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankesh054-official&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ankesh054-official}/count.svg" /></p> 
+---
+[![](https://visitcount.itsvg.in/api?id=Ankesh054-official&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
