@@ -12,6 +12,8 @@ Hi there, my name is Ankesh and I am an undergraduate student at DPGITM Gurugram
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ankesh054-official&theme=cobalt&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankesh054-official&theme=cobalt&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+[![roadmap.sh](https://roadmap.sh/card/tall/648de6c8779070ae62485217?variant=dark)](https://roadmap.sh)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Ankesh054-official&icon=0&color=0)](https://visitcount.itsvg.in)
 
